@@ -1,0 +1,18 @@
+{
+  "name": "deno-response-event-respond-with-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Paul Maréchal",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "18"
+  }
+}
