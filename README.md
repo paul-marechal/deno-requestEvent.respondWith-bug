@@ -29,3 +29,17 @@ deno run --allow-net client.ts (n=2000)
 node server.js # runs on localhost:8080
 node client.js (n=2000)
 ```
+
+## Environment
+
+```
+$ deno --version
+deno 1.35.2 (release, x86_64-pc-windows-msvc)
+v8 11.6.189.7
+typescript 5.1.6
+```
+
+```
+$ node -v
+node 18.16.1
+```
